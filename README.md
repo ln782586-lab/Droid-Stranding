@@ -5,6 +5,6 @@ An emulator that convert the IOS port of Death Stranding to run on android hardw
 
 # Information 
 
-<img width="2400" height="1080" alt="Screenshot_2026-09-10-15-26-09-91_3bdbfd38b38846d9ee79d2eefd97b824" src="https://github.com/user-attachments/assets/5449e8bf-d2e5-40a3-804c-e0f684a4fd27" />
+https://github.com/user-attachments/assets/cfbba8f4-cdd1-4ffb-957f-c5dc5b495501
 
 Work in Progress
